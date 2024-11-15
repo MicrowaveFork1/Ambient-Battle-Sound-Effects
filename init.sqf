@@ -1,0 +1,1 @@
+[] execVM "Amb_battle.sqf";
